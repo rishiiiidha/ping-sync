@@ -1,7 +1,7 @@
 # TimeWApp
 
 ## Description
-"TimeWApp" is a simple application designed to schedule WhatsApp messages. It enables users to schedule messages in advance, ensuring timely communication with contacts around the world.
+"TimeWApp" is a simple application designed to schedule WhatsApp messages.
 
 ## Tech Stack
 - Node.js
