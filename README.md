@@ -1,7 +1,7 @@
-# TimeWApp
+# PingSync
 
 ## Description
-"TimeWApp" is a simple application designed to schedule WhatsApp messages.
+"PingSync" is a simple application designed to schedule WhatsApp messages.
 
 ## Tech Stack
 - Node.js
